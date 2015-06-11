@@ -1,6 +1,6 @@
 "use strict";
 (function() {
-    angular.module("frameModule").directive("frame", function () {
+    angular.module("frameworkModule").directive("framework", function () {
         return {
             transclude: true,
             scope: {
@@ -8,8 +8,8 @@
                 subtitle: '@',
                 iconFile: '@'
             },
-            controller: "FrameController",
-            templateUrl: "ext-modules/frame/frameTemplate.html"
+            controller: "FrameworkController",
+            templateUrl: "ext-modules/framework/frameworkTemplate.html"
             
         };
     });

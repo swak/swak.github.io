@@ -1,9 +1,9 @@
 "use strict";
 (function() {
-	angular.module("Frame").controller("FrameController",
+	angular.module("framework").controller("FrameController",
 		['$scope', '$window', '$timeout', '$rootScope',
 		function ($scope, $window, $timeout, $rootScope) {
-			console.log("Frame Loaded.");
+			console.log("Framework Controller Loaded.");
 		}
 		]);
 }());
