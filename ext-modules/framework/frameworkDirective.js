@@ -1,6 +1,6 @@
 "use strict";
 (function() {
-    angular.module("frameworkModule").directive("framework", function () {
+    angular.module("framework").directive("framework", function () {
         return {
             transclude: true,
             scope: {
