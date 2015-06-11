@@ -1,5 +1,5 @@
 "use strict";
 (function() {
-	angular.module("frame", []);
-	console.log("Frame Module Loaded.");
+	angular.module("framework", []);
+	console.log("Framework Module Loaded.");
 }());

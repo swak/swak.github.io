@@ -1,5 +1,5 @@
 use strict";
 (function() {
-	angular.module("app", ["frame"]);
+	angular.module("app", ["framework"]);
 	console.log("App Loaded.");
 }());
