@@ -1,5 +1,5 @@
 "use strict";
 (function() {
-	angular.module("app", ["framework"]);
+	var app = angular.module("app", ["framework"]);
 	console.log("App Loaded.");
 }());
