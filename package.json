@@ -1,0 +1,26 @@
+{
+  "name": "swak.github.io",
+  "version": "1.0.0",
+  "description": "template using html, javascript, and css",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swak/swak.github.io.git"
+  },
+  "keywords": [
+    "swak"
+  ],
+  "author": "swak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swak/swak.github.io/issues"
+  },
+  "homepage": "https://github.com/swak/swak.github.io#readme",
+  "dependencies": {
+    "angular": "^1.4.3",
+    "jquery": "^2.1.4"
+  }
+}
