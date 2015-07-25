@@ -1,5 +1,3 @@
-"use strict";
-(function() {
-	var app = angular.module("app", ["framework"]);
-	console.log("App Loaded.");
-}());
+'use strict';
+
+var swakApp = angular.module('swakApp', []);
