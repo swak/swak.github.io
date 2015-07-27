@@ -5,7 +5,7 @@
 	"configurations": [
 		{
 			// Name of configuration; appears in the launch configuration drop down menu.
-			"name": "Launch app.js",
+			"name": " Launch app.js",
 			// Type of configuration. Possible values: "node", "mono".
 			"type": "node",
 			// Workspace relative or absolute path to the program.
@@ -26,7 +26,7 @@
 			"sourceMaps": false,
 			// If JavaScript source maps are enabled, the generated code is expected in this directory.
 			"outDir": null
-		}, 
+		},
 		{
 			"name": "Attach",
 			"type": "node",
