@@ -6,7 +6,7 @@ var app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.get('/node_modules', '../node_modules');
+// app.get('/node_modules', '../node_modules');
 
 var server = app.listen(3000, function () {
   var host = server.address().address;
